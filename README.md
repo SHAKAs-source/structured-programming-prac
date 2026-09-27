@@ -1,4 +1,4 @@
-# Structured Programming Practice Assignment (CSC1101)
+# Structured Programming Practice Assignment
 
 This repository contains small C programming solutions mapped to practice categories from Deitel & Deitel, C How to Program (9th Edition). It demonstrates core console concepts, loop controls, validation checks, and interactive data structures.
 
